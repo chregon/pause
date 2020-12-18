@@ -1,0 +1,14 @@
+* pause
+For shell scripting, when less is more (than pause).
+** usage
+Just run the compiled program, then processing will stop until user decides to exit.
+
+#+begin_src
+./pause
+#+end_src
+** installation
+#+begin_src
+git clone https://github.com/chregon/pause
+cd pause
+make
+#+end_src
